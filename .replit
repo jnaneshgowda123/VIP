@@ -6,10 +6,19 @@ channel = "stable-25_05"
 packages = ["unzip"]
 
 [workflows]
-runButton = "Run Bot"
+runButton = "Run Python Bot"
 
 [[workflows.workflow]]
 name = "Run Bot"
+author = 47660616
+mode = "sequential"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "python3 main.py"
+
+[[workflows.workflow]]
+name = "Run Python Bot"
 author = 47660616
 mode = "sequential"
 
