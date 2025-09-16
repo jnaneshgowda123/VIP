@@ -514,5 +514,5 @@ try {
   await bot.start();
 } catch (error) {
   console.error('Failed to start bot:', error);
-  Deno.exit(1);
+  throw error;
 }
