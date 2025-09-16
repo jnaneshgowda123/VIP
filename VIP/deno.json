@@ -1,0 +1,10 @@
+
+{
+  "tasks": {
+    "start": "deno run --allow-net --allow-env --allow-read --allow-write main.ts"
+  },
+  "imports": {
+    "telegram": "https://deno.land/x/grammy@v1.19.2/mod.ts",
+    "mongodb": "https://deno.land/x/mongo@v0.32.0/mod.ts"
+  }
+}

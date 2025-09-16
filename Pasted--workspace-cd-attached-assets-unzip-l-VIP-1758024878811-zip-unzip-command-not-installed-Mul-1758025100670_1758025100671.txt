@@ -1,0 +1,188 @@
+~/workspace$ cd attached_assets && unzip -l VIP_1758024878811.zip
+unzip: command not installed. Multiple versions of this command were found in Nix.
+Select one to run (or press Ctrl-C to cancel):
+unzip     6.0  Extraction utility for archives compressed in .zip format
+Adding unzip to .replit
+Archive:  VIP_1758024878811.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+      121  09-16-2025 11:05   VIP/.env.example
+        0  09-16-2025 12:04   VIP/.git/
+      730  09-16-2025 12:02   VIP/.git/COMMIT_EDITMSG
+       98  09-16-2025 12:04   VIP/.git/FETCH_HEAD
+       21  09-16-2025 10:58   VIP/.git/HEAD
+      259  09-16-2025 10:58   VIP/.git/config
+       73  09-16-2025 10:58   VIP/.git/description
+        0  09-16-2025 10:58   VIP/.git/hooks/
+      535  09-16-2025 10:58   VIP/.git/hooks/applypatch-msg.sample
+      953  09-16-2025 10:58   VIP/.git/hooks/commit-msg.sample
+     4777  09-16-2025 10:58   VIP/.git/hooks/fsmonitor-watchman.sample
+      246  09-16-2025 10:58   VIP/.git/hooks/post-update.sample
+      481  09-16-2025 10:58   VIP/.git/hooks/pre-applypatch.sample
+     1706  09-16-2025 10:58   VIP/.git/hooks/pre-commit.sample
+      473  09-16-2025 10:58   VIP/.git/hooks/pre-merge-commit.sample
+     1431  09-16-2025 10:58   VIP/.git/hooks/pre-push.sample
+     5006  09-16-2025 10:58   VIP/.git/hooks/pre-rebase.sample
+      601  09-16-2025 10:58   VIP/.git/hooks/pre-receive.sample
+     1702  09-16-2025 10:58   VIP/.git/hooks/prepare-commit-msg.sample
+     2840  09-16-2025 10:58   VIP/.git/hooks/push-to-checkout.sample
+     2365  09-16-2025 10:58   VIP/.git/hooks/sendemail-validate.sample
+     3707  09-16-2025 10:58   VIP/.git/hooks/update.sample
+      986  09-16-2025 12:02   VIP/.git/index
+        0  09-16-2025 10:58   VIP/.git/info/
+      240  09-16-2025 10:58   VIP/.git/info/exclude
+        0  09-16-2025 10:58   VIP/.git/logs/
+     3324  09-16-2025 12:02   VIP/.git/logs/HEAD
+        0  09-16-2025 10:58   VIP/.git/logs/refs/
+        0  09-16-2025 10:58   VIP/.git/logs/refs/heads/
+     3135  09-16-2025 12:02   VIP/.git/logs/refs/heads/main
+      612  09-16-2025 12:01   VIP/.git/logs/refs/heads/replit-agent
+        0  09-16-2025 10:58   VIP/.git/logs/refs/remotes/
+        0  09-16-2025 12:03   VIP/.git/logs/refs/remotes/origin/
+      170  09-16-2025 12:03   VIP/.git/logs/refs/remotes/origin/HEAD
+      208  09-16-2025 10:58   VIP/.git/logs/refs/remotes/origin/main
+        0  09-16-2025 12:04   VIP/.git/objects/
+        0  09-16-2025 11:56   VIP/.git/objects/05/
+     9477  09-16-2025 11:56   VIP/.git/objects/05/70eaefa2c7cebb6a74b68b81e40eb87330c706
+        0  09-16-2025 11:05   VIP/.git/objects/06/
+      115  09-16-2025 11:05   VIP/.git/objects/06/ce4b42ead2d8f2010d3b37edc8926dd581d264
+        0  09-16-2025 11:51   VIP/.git/objects/09/
+      164  09-16-2025 11:51   VIP/.git/objects/09/bf6e2aa860725a01c8010a7b28007a45bc2463
+        0  09-16-2025 12:01   VIP/.git/objects/0a/
+      267  09-16-2025 12:01   VIP/.git/objects/0a/963b61ad4949b285d8d05d5840aebba1f3faff
+        0  09-16-2025 11:37   VIP/.git/objects/13/
+     8151  09-16-2025 11:37   VIP/.git/objects/13/2e906d03c6042003555c866aadad584f4730a0
+        0  09-16-2025 12:01   VIP/.git/objects/15/
+      391  09-16-2025 12:01   VIP/.git/objects/15/ddf55c26efc96ad0ed579d62f67bce1919f8c9
+        0  09-16-2025 11:05   VIP/.git/objects/18/
+     1108  09-16-2025 11:05   VIP/.git/objects/18/1f0a4c391396a9335f633ad13b3ceacb1b3c2e
+        0  09-16-2025 11:11   VIP/.git/objects/1e/
+      947  09-16-2025 11:11   VIP/.git/objects/1e/6beba33b56124ecb9ef398dce55068a30cc9b4
+        0  09-16-2025 11:52   VIP/.git/objects/21/
+      774  09-16-2025 11:52   VIP/.git/objects/21/c12f269ae864d7d7188b231086b8c511d9c305
+        0  09-16-2025 10:58   VIP/.git/objects/23/
+      974  09-16-2025 10:58   VIP/.git/objects/23/7f5e64492766bc43fe6500f8cad64cdf96a817
+        0  09-16-2025 11:37   VIP/.git/objects/2b/
+      895  09-16-2025 11:37   VIP/.git/objects/2b/9c425f4e43ff6b542c7f1da1153441a074d595
+        0  09-16-2025 11:21   VIP/.git/objects/2c/
+      499  09-16-2025 11:21   VIP/.git/objects/2c/4fa225bf33622aa079b7cb4e6c57968da4735e
+        0  09-16-2025 11:51   VIP/.git/objects/30/
+      543  09-16-2025 11:21   VIP/.git/objects/30/7c0663fd187bd74faced6cf530e4a60579aa27
+      410  09-16-2025 11:51   VIP/.git/objects/30/babe1aa6bfe05ce13d865ac5cc961ed66c4367
+        0  09-16-2025 12:01   VIP/.git/objects/35/
+     9475  09-16-2025 12:01   VIP/.git/objects/35/32a50ef4e7e2ebdfdbc84b48c3e213f912a06a
+        0  09-16-2025 11:24   VIP/.git/objects/3b/
+      223  09-16-2025 11:24   VIP/.git/objects/3b/c9562f868e9a6cb82808301a303e61c3c1a88f
+        0  09-16-2025 11:56   VIP/.git/objects/3c/
+     2393  09-16-2025 11:56   VIP/.git/objects/3c/4690c28a8534a350b402adc75fcbb5c78bc4b0
+        0  09-16-2025 10:58   VIP/.git/objects/40/
+       83  09-16-2025 10:58   VIP/.git/objects/40/7bb77f3b0a474292182963ffe8ab5a10ba6446
+        0  09-16-2025 12:02   VIP/.git/objects/43/
+      435  09-16-2025 12:02   VIP/.git/objects/43/09329e4ced89328539ee30df0f1a53f664e933
+        0  09-16-2025 11:21   VIP/.git/objects/4b/
+      264  09-16-2025 11:21   VIP/.git/objects/4b/8adc43e1faa738ab7a60982fbda8689cfcb37e
+        0  09-16-2025 11:05   VIP/.git/objects/4f/
+      223  09-16-2025 11:05   VIP/.git/objects/4f/0a6004e83594f48e5df79b2530a9b0c37049a9
+        0  09-16-2025 10:58   VIP/.git/objects/52/
+       74  09-16-2025 10:58   VIP/.git/objects/52/23b03372dced9dc8db18466fcc4d05260e6751
+        0  09-16-2025 11:09   VIP/.git/objects/60/
+      206  09-16-2025 11:09   VIP/.git/objects/60/9f2d9a5f1625b0b6492f0411696711d188a2d6
+        0  09-16-2025 11:51   VIP/.git/objects/62/
+      266  09-16-2025 11:51   VIP/.git/objects/62/870256086aaaa3ab0da277ed2f6bc10373b448
+        0  09-16-2025 12:02   VIP/.git/objects/65/
+     3442  09-16-2025 12:02   VIP/.git/objects/65/08a67e51d99f6b26c4e670ba4bfceedf0233f9
+        0  09-16-2025 12:01   VIP/.git/objects/68/
+      433  09-16-2025 12:01   VIP/.git/objects/68/251ff925c648da023c11ddb27a7eb8251d5c58
+      432  09-16-2025 10:58   VIP/.git/objects/68/77055fcde899c2d2a44448741c1bdc46cd4a5c
+        0  09-16-2025 11:51   VIP/.git/objects/6b/
+     1484  09-16-2025 11:51   VIP/.git/objects/6b/3a68acba7031270a6e2697352e4da5d410a8c2
+       52  09-16-2025 10:58   VIP/.git/objects/6b/de52e43967e1e991d1f28f4d0be05c0c82bb66
+        0  09-16-2025 11:11   VIP/.git/objects/6c/
+      223  09-16-2025 11:11   VIP/.git/objects/6c/e6d847aa8d1e3d9b7e51b1a29a35a035bd02c5
+        0  09-16-2025 10:58   VIP/.git/objects/73/
+      432  09-16-2025 10:58   VIP/.git/objects/73/edd15cdd480c182938fa7cab1f60ede136950b
+        0  09-16-2025 12:02   VIP/.git/objects/7b/
+      760  09-16-2025 12:02   VIP/.git/objects/7b/c38da51a4279d8ee527a015f43ddb2ecedfd36
+        0  09-16-2025 12:02   VIP/.git/objects/88/
+      184  09-16-2025 12:02   VIP/.git/objects/88/2f5410561fb4ecd00c9e5a69f50a16103c226b
+        0  09-16-2025 11:05   VIP/.git/objects/90/
+      819  09-16-2025 11:05   VIP/.git/objects/90/ffed95d7aea9bff42bd2e23e3187ff01a47ab7
+        0  09-16-2025 10:58   VIP/.git/objects/92/
+      867  09-16-2025 10:58   VIP/.git/objects/92/e9d963e8e00c909a795f9f5a011e8e57f2d546
+        0  09-16-2025 12:02   VIP/.git/objects/9a/
+       69  09-16-2025 12:02   VIP/.git/objects/9a/2ff50e26448d64dab9ddc04335656ba1cebad7
+        0  09-16-2025 11:52   VIP/.git/objects/a0/
+      266  09-16-2025 11:52   VIP/.git/objects/a0/b9e4fae493ac174d92d2a229d165957a9a16c7
+        0  09-16-2025 11:52   VIP/.git/objects/a2/
+     8247  09-16-2025 11:52   VIP/.git/objects/a2/6884143d145c9eb0d579bd74b076f1e6b42bf7
+        0  09-16-2025 11:56   VIP/.git/objects/aa/
+      813  09-16-2025 11:56   VIP/.git/objects/aa/0b5ceca8480176e54fbc9f3547b5bc265f2795
+     2182  09-16-2025 11:52   VIP/.git/objects/aa/8b6eebd15dbf7b07cd4c0c6a496cb0433482e8
+        0  09-16-2025 11:51   VIP/.git/objects/ab/
+      367  09-16-2025 11:51   VIP/.git/objects/ab/2d90730f93596bb56f0ebfc466ef4016a2d4db
+        0  09-16-2025 11:21   VIP/.git/objects/ad/
+      224  09-16-2025 11:21   VIP/.git/objects/ad/e8cb9e90bc1d6f49881d57cda64e1b9e509f43
+        0  09-16-2025 12:02   VIP/.git/objects/b5/
+      358  09-16-2025 12:02   VIP/.git/objects/b5/7e31e66f27aa030a09e114804b94c93e2ddb64
+        0  09-16-2025 12:02   VIP/.git/objects/b6/
+     9531  09-16-2025 12:02   VIP/.git/objects/b6/d7c081bf2e2bcf1fb3be3d0ee86fc8cb2ec1e0
+        0  09-16-2025 11:56   VIP/.git/objects/ca/
+      267  09-16-2025 11:56   VIP/.git/objects/ca/8eca5102ce6c9179421c727b6c2208fa88dea9
+        0  09-16-2025 11:05   VIP/.git/objects/d0/
+     3990  09-16-2025 11:05   VIP/.git/objects/d0/40adf62698bc3a9264ff74b62897a718f7cb62
+        0  09-16-2025 11:37   VIP/.git/objects/d1/
+      223  09-16-2025 11:37   VIP/.git/objects/d1/960186763080d501d9485b04ca8a80f8fe01b4
+        0  09-16-2025 11:09   VIP/.git/objects/d2/
+      223  09-16-2025 11:09   VIP/.git/objects/d2/7970d20895e1186c9f5e079ea6891cbf11789f
+        0  09-16-2025 11:05   VIP/.git/objects/e3/
+       58  09-16-2025 11:05   VIP/.git/objects/e3/d4966152d3ff77bca9cb365950be0f2e4f0529
+        0  09-16-2025 11:09   VIP/.git/objects/e5/
+      430  09-16-2025 11:09   VIP/.git/objects/e5/ec4e83acd0017485306b8cc48de4fdffd9eae0
+        0  09-16-2025 11:24   VIP/.git/objects/e8/
+     5712  09-16-2025 11:24   VIP/.git/objects/e8/9cf152834f32873fb81da532422f468c24f7c8
+        0  09-16-2025 11:24   VIP/.git/objects/ed/
+      907  09-16-2025 11:24   VIP/.git/objects/ed/00e0a7339f333a863ebcffae0080bd984a1a4f
+        0  09-16-2025 11:11   VIP/.git/objects/f2/
+      241  09-16-2025 11:11   VIP/.git/objects/f2/cba90b01533f29432881f4d97ff79081da2d49
+        0  09-16-2025 10:58   VIP/.git/objects/info/
+        0  09-16-2025 10:58   VIP/.git/objects/pack/
+        0  09-16-2025 10:58   VIP/.git/refs/
+        0  09-16-2025 12:02   VIP/.git/refs/heads/
+       41  09-16-2025 12:02   VIP/.git/refs/heads/main
+       41  09-16-2025 12:01   VIP/.git/refs/heads/replit-agent
+        0  09-16-2025 10:58   VIP/.git/refs/remotes/
+        0  09-16-2025 12:04   VIP/.git/refs/remotes/origin/
+       30  09-16-2025 12:03   VIP/.git/refs/remotes/origin/HEAD
+       41  09-16-2025 10:58   VIP/.git/refs/remotes/origin/main
+        0  09-16-2025 12:01   VIP/.git/refs/replit/
+       41  09-16-2025 12:01   VIP/.git/refs/replit/agent-ledger
+        0  09-16-2025 10:58   VIP/.git/refs/tags/
+        0  09-16-2025 10:58   VIP/.local/
+        0  09-16-2025 10:58   VIP/.local/state/
+        0  09-16-2025 10:58   VIP/.local/state/replit/
+        0  09-16-2025 10:59   VIP/.local/state/replit/agent/
+     3470  09-16-2025 10:58   VIP/.local/state/replit/agent/.agent_state_6877055fcde899c2d2a44448741c1bdc46cd4a5c.bin
+     3455  09-16-2025 10:59   VIP/.local/state/replit/agent/.agent_state_main.bin
+       18  09-16-2025 10:59   VIP/.local/state/replit/agent/.latest.json
+      364  09-16-2025 10:59   VIP/.local/state/replit/agent/repl_state.bin
+      308  09-16-2025 11:11   VIP/.replit
+     1072  09-16-2025 10:58   VIP/LICENSE
+     4419  09-16-2025 11:56   VIP/README.md
+        0  09-16-2025 11:37   VIP/attached_assets/
+     7296  09-16-2025 11:37   VIP/attached_assets/Pasted-nlibs-lib-python3-11-site-packages-from-pymongo-4-6-1-r-requirements-txt-line-3-2-8-0-Requ-1758022658940_1758022658941.txt
+      244  09-16-2025 12:02   VIP/deno.json
+      731  09-16-2025 12:02   VIP/deploy.yml
+    39906  09-16-2025 12:02   VIP/main.py
+     8309  09-16-2025 12:02   VIP/main.ts
+       53  09-16-2025 12:02   VIP/requirements.txt
+---------                     -------
+   188232                     169 files
+~/workspace/attached_assets$ cd attached_assets && unzip -l VIP_1758024906325.zip
+bash: cd: attached_assets: No such file or directory
+~/workspace/attached_assets$ cd attached_assets && unzip VIP_1758024878811.zip
+bash: cd: attached_assets: No such file or directory
+~/workspace/attached_assets$ cd attached_assets && unzip VIP_1758024906325.zip
+bash: cd: attached_assets: No such file or directory
+~/workspace/attached_assets$ find attached_assets -type f -name "*.py" -o -name "*.js" -o -name "*.html" -o -name "*.css" -o -name "*.json" -o -name "*.md" -o -name "*.txt" | grep -v ".zip"
+find: ‘attached_assets’: No such file or directory
+~/workspace/attached_assets$ 
