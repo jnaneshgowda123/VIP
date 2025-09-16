@@ -18,6 +18,7 @@ class PremiumBot {
     this.adminId = parseInt(Deno.env.get('ADMIN_ID') || '0');
 
     if (!botToken || !mongoUrl || !this.adminId) {
+      console.error('Missing required environment variables: BOT_TOKEN, MONGODB_URL, ADMIN_ID');
       throw new Error('Missing required environment variables: BOT_TOKEN, MONGODB_URL, ADMIN_ID');
     }
 
