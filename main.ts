@@ -514,5 +514,5 @@ try {
   await bot.start();
 } catch (error) {
   console.error('Failed to start bot:', error);
-  throw error;
+  // Don't use Deno.exit() in deployment context
 }
